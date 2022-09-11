@@ -63,6 +63,7 @@ export default {
     Navbar,
     AppFooter
   },
+  
   methods: {
     ...mapMutations(["toggleConfigurator", "navbarMinimize"])
   },
